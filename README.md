@@ -31,3 +31,17 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
+---
+
+<img align="left" alt="Rishi Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rishi923&show_icons=true&hide_border=true" />
+
+
+<br>
+
+<a href="https://github.com/Rishi923?tab=overview">
+<img align="center" alt="Rishi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi923&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi923&theme=radical" alt="More Rishi Stats" /></p>
+</a>
+
+
