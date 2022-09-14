@@ -16,4 +16,18 @@ You can click the Preview link to take a look at your changes.
 
 - Email: [`Click To Mail!`](mailto:5rishim5@gmail.com) or copy **`5rishim5@gmail.com`**
 
+<br/>
+
+#### Languages and Tools
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="PowerBI" width="26px" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Excel" width="26px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
+<img align="left" alt="Pandas" width="26px" src="https://img.icons8.com/color/48/000000/pandas.png"/>
+<img align="left" alt="Numpy" width="26px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
+
+
+<br/>
 
